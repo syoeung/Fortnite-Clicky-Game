@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Black Knight",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/6/64/Black_Knight_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607170344"
+    },
+    {
+        "id": 2,
+        "name": "Drift",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/7/73/Drift_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180713163937"
+    },
+    {
+        "id": 3,
+        "name": "Renegade Raider",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/b/b7/Renegade_Raider_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607174445"
+    },
+    {
+        "id": 4,
+        "name": "Leviathan",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/d/d2/Leviathan_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607170948"
+    },
+    {
+        "id": 5,
+        "name": "Viking Girl",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/f/f3/Huntress_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180713164136"
+    },
+    {
+        "id": 6,
+        "name": "Raven",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/2/27/Raven_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607170952"
+    },
+    {
+        "id": 7,
+        "name": "Squire",
+        "image": "https://image.fnbr.co/outfit/5ab175175f957f27504aa512/icon.png"
+    },
+    {
+        "id": 8,
+        "name": "Wu Kong",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/e/ec/Wukong_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607171030"
+    },
+    {
+        "id": 9,
+        "name": "Vertex",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/b/b8/Vertex_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180702194627"
+    },
+    {
+        "id": 10,
+        "name": "Burn Out",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/d/dc/Redline_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180713164408"
+    },
+    {
+        "id": 11,
+        "name": "Rust Lord",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/3/34/Rust_Lord_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607165820"
+    },
+    {
+        "id": 12,
+        "name": "Cuddle Team Leader",
+        "image": "https://vignette.wikia.nocookie.net/fortnite/images/2/22/Cuddle_Team_Leader_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/480?cb=20180607170946"
+    }
+]
