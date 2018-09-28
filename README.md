@@ -1,6 +1,6 @@
 # Fortnite-Clicky-Game
 
-# Overview
+## Overview
 A simple memory game based on the popular online multiplayer game "Fortnite" . Test your memory by clicking/eliminating all the character cards without clicking a character card twice. 
 The site was builded using react.
 
