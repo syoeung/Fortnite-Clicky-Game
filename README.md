@@ -14,4 +14,7 @@ The site was builded using react.
 * If you click on all 12 images in a row without clicking a previously elimanted character, you win.
 * But here's the tricky part , the cards will shuffle around after each click .
 
+![fortniteclickysc](https://user-images.githubusercontent.com/36983507/47628136-6fffef80-db0a-11e8-9fce-96d9cacb2d3e.JPG)
+
+
 
